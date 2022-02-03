@@ -12,7 +12,7 @@ const Task = ({ task, onDelete, onToggle }) => {
                 />
             </h3>
 
-            <p>{task.date}</p>
+            <p>{task.day}</p>
 
         </div >
     );
